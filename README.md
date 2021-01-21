@@ -21,4 +21,4 @@ Steps performed for validations using Page object model framework.
 
 ->Unable to proceed further as required personal details.and card details.
 
-Note: Reports are available in -->> src\main\resources
+Note: Reports are available in -->> EbayAppAssignment/reports
