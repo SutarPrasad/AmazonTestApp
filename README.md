@@ -1,4 +1,4 @@
-# AmazonTestApp
+# TestApp
 Page object model framework is implemented.
 
 Steps performed for validations using Page object model framework.
